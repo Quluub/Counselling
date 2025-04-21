@@ -1,0 +1,13 @@
+.bg-gradient {
+  background: linear-gradient(180deg, #1D4E5F 0%, #24666E 100%);
+}
+.text-teal {
+  color: #00837D;
+}
+.btn-teal {
+  background-color: #00837D;
+  color: #FFFFFF;
+}
+.btn-teal:hover {
+  background-color: #006D66;
+}
